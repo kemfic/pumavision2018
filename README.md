@@ -8,7 +8,7 @@ cube detection and distance estimation using ROS and OpenCV
 
 requirements
 ---
-
-- OpenCV
+ - libfreenect
+ - OpenCV
  - ROS
  - Xbox Kinect 360 (optional, but is used to estiamte distance)
