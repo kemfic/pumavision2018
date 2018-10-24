@@ -1,7 +1,8 @@
 pumavision
 ---
-cube detection and distance estimation using ROS and OpenCV
+cube tracking and distance estimation using ROS and OpenCV
 
+[video](https://www.youtube.com/watch?v=LCLLcYQEzeA)
 
 [![img](resources/demo.png)](https://www.youtube.com/watch?v=LCLLcYQEzeA)
 
