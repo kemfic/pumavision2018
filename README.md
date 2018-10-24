@@ -11,4 +11,4 @@ requirements
  - libfreenect
  - OpenCV
  - ROS
- - Xbox Kinect 360 (optional, but is used to estiamte distance)
+ - Xbox Kinect 360 (optional, but is used to estimate distance)
