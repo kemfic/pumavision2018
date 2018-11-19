@@ -10,6 +10,6 @@ cube tracking and distance estimation using ROS and OpenCV
 requirements
 ---
  - libfreenect
- - OpenCV
+ - OpenCV Python
  - ROS
  - Xbox Kinect 360 (optional, but is used to estimate distance)
